@@ -1,8 +1,5 @@
-# React + Vite
+<h1>Organização dos arquivos</h1>
+<p>A página <strong>index.html</strong> executa o script presente na pasta <strong>/scr/main.jsx</strong>, que por sua vez chama a página <strong>App.jsx</strong> responsável por ordenar os itens presentes em <strong>/src/componetns/</strong>.</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Sobre o projeto</h1>
+<p>O projeto foi desenvolvido através do framework ReactJS, e tem como objetivo principal exercitar o conceito de criação de funções extruturadas em componentes gerenciaveis, além de utilizar as funções de estado de objeto para criar operações dinâmicas na página, para que o usuário não precise recarregar a página ao realizar uma consulta, adição ou exclusão de dados.</p>
